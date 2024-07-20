@@ -70,6 +70,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Logesh Bharathi - [logeshb889@gmail.com](mailto:logeshb889@gmail.com)
 
 Project Link: [https://github.com/LogeshBharathi/todo-list-react](https://github.com/LogeshBharathi/todo-list-react)
-```
-
-Feel free to replace the placeholder demo link with the actual URL if you have a live version. Let me know if you need any more adjustments!
