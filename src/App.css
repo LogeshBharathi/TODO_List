@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  margin: 12em 12em;
+  background: #edf49d;
+  padding: 20px;
+
+  
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  width:28em;
+  height: 4em;
+  font-size: larger;
+  border-radius: 2em;
+  border-color: yellow;
+}
+
+button {
+    padding: 10px;
+    margin-left: 5px;
+    width: 7em;
+    height: 4em;
+    border-radius: 2em;
+    background-color: yellowgreen;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin: 15px 0;
+  background: #f0f0f0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+li button {
+  margin-left: 10px;
+  background-color: aquamarine;
+} 
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px; 
+}
+
+.todo-text {
+  flex-grow: 0;
+  padding-left: 2%;
+}
+
+.todo-actions {
+  display: flex;
+  gap: 10px; 
+}
