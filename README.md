@@ -4,7 +4,7 @@ This is a basic Todo List application built with React and styled with simple CS
 
 ## Demo
 
-Check out the live demo of the app [here](https://example.com).
+Check out the live demo of the app [here](https://golden-elf-9e7351.netlify.app/).
 
 ## Preview
 
